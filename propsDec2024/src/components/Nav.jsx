@@ -2,7 +2,7 @@
 function Nav() {
 
     return (
-        <h1>Hello vite</h1>
+        <h1>HEADER SPACE</h1>
     )
 }
 
